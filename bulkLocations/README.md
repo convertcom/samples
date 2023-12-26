@@ -17,6 +17,9 @@ To configure script, you need to do steps below inside **index.js** file
 
 ## How to run
 In console type code below to install dependencies
+
 ``npm install``
+
 Then, type code below to execute script
+
 ``node index.js``
