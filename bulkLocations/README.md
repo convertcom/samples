@@ -16,10 +16,10 @@ To configure script, you need to do steps below inside **index.js** file
 * Set locations list (to variable **const locations = [];**) according to example inside **index.js** file
 
 ## How to run
-In console type code below to install dependencies
+In console type code below to install dependencies:<br /> 
 
-``npm install``
+``npm install``<br /> 
 
-Then, type code below to execute script
+Then, type code below to execute script:<br /> 
 
 ``node index.js``
